@@ -1,0 +1,6 @@
+[submodule "session-service"]
+	path = session-service
+	url = git@github.com:rluisb/session-service.git
+[submodule "agenda-service"]
+	path = agenda-service
+	url = git@github.com:rluisb/agenda-service.git
